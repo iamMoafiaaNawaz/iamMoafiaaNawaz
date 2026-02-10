@@ -1,54 +1,35 @@
-Allah Moafi
+# 👋 Hi, I'm Allah Moafi
 
-Machine Learning and Artificial Intelligence Engineer
-BS Artificial Intelligence, FAST National University
-
----
-
-Professional Summary
-
-Final-year Artificial Intelligence undergraduate with specialization in
-Machine Learning, Computer Vision, and Generative AI (RAG).
-Experienced in developing end-to-end machine learning pipelines,
-medical image analysis systems, and explainable AI solutions using
-PyTorch and TensorFlow. Interested in building scalable and
-production-ready AI systems.
+**Machine Learning & AI Engineer | BS Artificial Intelligence, FAST NU**  
 
 ---
 
-Technical Skills
-
-Programming Languages:
-Python, C++, R
-
-Machine Learning and AI:
-Machine Learning, Deep Learning, Computer Vision,
-Explainable AI (XAI), Generative AI (RAG)
-
-Libraries and Frameworks:
-PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, OpenCV
-
-Engineering Tools:
-Docker, Git, GitHub, Jupyter Notebook
+## 💼 Professional Summary
+Final-year AI undergraduate specializing in **Machine Learning, Computer Vision, and Generative AI (RAG)**.  
+Experienced in building **end-to-end ML pipelines, medical image analysis systems**, and **explainable AI (XAI) solutions** using PyTorch and TensorFlow.  
+Passionate about developing **scalable, production-ready AI applications** that solve real-world problems.
 
 ---
 
-Education
+## 🛠️ Technical Skills
 
-BS Artificial Intelligence (2022–2026 Expected)
-FAST National University of Computer and Emerging Sciences
-Chiniot, Punjab, Pakistan
+**Programming Languages:** Python, C++, R  
+**Machine Learning & AI:** Machine Learning, Deep Learning, Computer Vision, Explainable AI (XAI), Generative AI (RAG)  
+**Libraries & Frameworks:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, OpenCV  
+**Tools & Platforms:** Docker, Git/GitHub, Jupyter Notebook  
 
 ---
 
-Links
+## 🎓 Education
 
-GitHub:
-https://github.com/iamMoafiaaNawaz
+**BS Artificial Intelligence** | FAST National University, Chiniot, Punjab, Pakistan  
+*2022 – 2026 (Expected)*  
 
-LinkedIn:
-https://www.linkedin.com/in/mafia-nawaz-2991a3345
+---
 
-Email:
-mafianawaz60@gmail.com
+## 🔗 Links
+
+[GitHub](https://github.com/iamMoafiaaNawaz) | [LinkedIn](https://www.linkedin.com/in/mafia-nawaz-2991a3345) | [Email](mailto:mafianawaz60@gmail.com)  
+
+
 
