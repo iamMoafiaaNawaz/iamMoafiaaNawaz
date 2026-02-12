@@ -16,15 +16,6 @@ Experienced in building end-to-end ML pipelines, medical image analysis systems,
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamMoafiaaNawaz&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamMoafiaaNawaz&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
----
-
 ## Technical Skills
 
 **Programming Languages:** Python, C++, R
