@@ -1,18 +1,17 @@
 # Allah Moafi
 
-**Machine Learning & AI Engineer | BS Artificial Intelligence, FAST NU**
+**Machine Learning & AI Engineer | BS Artificial Intelligence Graduate, FAST NU**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mafia-nawaz-2991a3345)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mafianawaz60@gmail.com)
-
 
 ---
 
 ## About Me
 
-Final-year AI undergraduate at FAST National University specializing in Machine Learning, Computer Vision, and Generative AI (RAG).
+Artificial Intelligence graduate from FAST National University specializing in Machine Learning, Computer Vision, Generative AI (RAG), and AI-powered applications.
 
-Experienced in building end-to-end ML pipelines, medical image analysis systems, and explainable AI solutions. Focused on developing scalable, production-ready applications.
+Experienced in building end-to-end ML pipelines, intelligent chatbot systems, medical image analysis solutions, and explainable AI applications. Passionate about developing scalable, production-ready AI systems using modern LLM frameworks and backend technologies.
 
 ---
 
@@ -20,9 +19,13 @@ Experienced in building end-to-end ML pipelines, medical image analysis systems,
 
 **Programming Languages:** Python, C++, R
 
-**Machine Learning & AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, Computer Vision, XAI, Generative AI
+**Machine Learning & AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, Computer Vision, XAI, Generative AI (RAG)
 
-**Tools & Platforms:** Docker, Git, Jupyter Notebook
+**LLM Frameworks:** LangChain, LangGraph, Prompt Engineering, Groq API
+
+**Backend Development:** Django, REST APIs
+
+**Tools & Platforms:** Docker, Git, GitHub, Jupyter Notebook, VS Code
 
 ---
 
@@ -30,12 +33,12 @@ Experienced in building end-to-end ML pipelines, medical image analysis systems,
 
 **BS Artificial Intelligence**  
 FAST National University, Chiniot, Punjab, Pakistan  
-Expected Graduation: 2026
+**Graduated: 2026**
 
 ---
 
 ## Contact
 
-- Email: mafianawaz60@gmail.com
-- LinkedIn: [linkedin.com/in/mafia-nawaz-2991a3345](https://www.linkedin.com/in/mafia-nawaz-2991a3345)
-- GitHub: [github.com/iamMoafiaaNawaz](https://github.com/iamMoafiaaNawaz)
+- **Email:** mafianawaz60@gmail.com
+- **LinkedIn:** https://linkedin.com/in/mafia-nawaz-2991a3345
+- **GitHub:** https://github.com/iamMoafiaaNawaz
