@@ -15,18 +15,12 @@ Artificial Intelligence graduate from FAST National University with expertise in
 Experienced in building end-to-end ML pipelines, AI-powered chatbot systems, explainable AI solutions, and production-ready applications using modern LLM frameworks. Passionate about developing scalable, intelligent, and real-world AI solutions.
 
 ---
-
 ## Technical Skills
-
-**Programming Languages:** Python, C++, R
-
-**Machine Learning & AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, Computer Vision, Explainable AI (XAI), Generative AI (RAG)
-
-**LLM Frameworks:** LangChain, LangGraph, Prompt Engineering, Groq API
-
-**Backend Development:** Django, REST APIs
-
-**Tools & Platforms:** Docker, Git, GitHub, Jupyter Notebook, VS Code
+* **Programming Languages:** Python, C++
+* **Machine Learning & AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, Computer Vision, Explainable AI (XAI), Generative AI (RAG)
+* **LLM Frameworks & Automation:** LangChain, LangGraph, n8n, Prompt Engineering, Groq API
+* **Backend Development:** Django, REST APIs
+* **Tools & Platforms:** Docker, Git, GitHub, n8n, Jupyter Notebook, VS Code
 
 ---
 
